@@ -12,3 +12,7 @@ A command-line to-do list application with task management and persistent storag
 ## How to Run
 ```bash
 python To_Do_List.py
+
+## Requirement
+-Python 3.x
+-colorama (pip install colorama)
